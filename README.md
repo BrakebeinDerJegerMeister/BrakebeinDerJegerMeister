@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS + Chakra
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : Send me email
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ?
 
 <!---
 BrakebeinDerJegerMeister/BrakebeinDerJegerMeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
